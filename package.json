@@ -11,7 +11,7 @@
     "db:seed": "knex seed:run"
   },
   "dependencies": {
-    "knex": "^0.19.4",
+    "knex": "^2.4.0",
     "koa": "^2.8.1",
     "koa-bodyparser": "^4.2.1",
     "koa-jwt": "^3.6.0",
